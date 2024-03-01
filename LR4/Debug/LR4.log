@@ -1,0 +1,3 @@
+﻿  LR4.cpp
+C:\Users\User01\source\repos\LR4\LR4.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "DWORD"
+  LR4.vcxproj -> C:\Users\User01\source\repos\LR4\Debug\LR4.exe
