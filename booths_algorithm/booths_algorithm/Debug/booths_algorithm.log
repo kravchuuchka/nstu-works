@@ -1,0 +1,7 @@
+﻿  booths_algorithm.cpp
+C:\Users\User01\source\repos\booths_algorithm\booths_algorithm\booths_algorithm.cpp(235,25): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\User01\source\repos\booths_algorithm\booths_algorithm\booths_algorithm.cpp(235,41): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\User01\source\repos\booths_algorithm\booths_algorithm\booths_algorithm.cpp(244,52): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User01\source\repos\booths_algorithm\booths_algorithm\booths_algorithm.cpp(247,21): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\User01\source\repos\booths_algorithm\booths_algorithm\booths_algorithm.cpp(247,37): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  booths_algorithm.vcxproj -> C:\Users\User01\source\repos\booths_algorithm\Debug\booths_algorithm.exe
