@@ -1,0 +1,4 @@
+﻿  dll.cpp
+C:\Users\User01\source\repos\dll\dll\dll.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\User01\source\repos\dll\Debug\dll.lib и объект C:\Users\User01\source\repos\dll\Debug\dll.exp
+  dll.vcxproj -> C:\Users\User01\source\repos\dll\Debug\dll.dll
