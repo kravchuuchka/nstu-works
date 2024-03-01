@@ -1,0 +1,3 @@
+﻿  LR3main.cpp
+C:\Users\User01\source\repos\LR3main\LR3main.cpp(7,9): warning C4068: неизвестная прагма "argsused"
+  LR3main.vcxproj -> C:\Users\User01\source\repos\LR3main\Debug\LR3main.exe
