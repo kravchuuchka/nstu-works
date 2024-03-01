@@ -1,0 +1,15 @@
+﻿  Server.cpp
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(32,8): warning C4101: dwRetCode: неиспользованная локальная переменная
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(34,8): warning C4101: hdl: неиспользованная локальная переменная
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(34,15): warning C4101: hout: неиспользованная локальная переменная
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(37,29): warning C4101: Buffer: неиспользованная локальная переменная
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(33,7): warning C4101: str: неиспользованная локальная переменная
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(94,20): warning C4473: "sprintf": передано недостаточно аргументов для строки формата
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(94,20): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(94,20): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%ld"
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(102,20): warning C4473: "sprintf": передано недостаточно аргументов для строки формата
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(102,20): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(102,20): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%ld"
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(78,8): warning C4101: res: неиспользованная локальная переменная
+C:\Users\User01\source\repos\RGZ_SL\RGZ_SL\Server.cpp(153,7): warning C4101: symbols: неиспользованная локальная переменная
+  RGZ_SL.vcxproj -> C:\Users\User01\source\repos\RGZ_SL\Debug\RGZ_SL.exe

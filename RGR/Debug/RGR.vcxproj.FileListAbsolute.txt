@@ -1,0 +1,2 @@
+C:\Users\User01\source\repos\RGR\Debug\RGR.exe
+C:\Users\User01\source\repos\RGR\Debug\RGR.pdb

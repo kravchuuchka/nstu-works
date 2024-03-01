@@ -1,0 +1,3 @@
+﻿  RGR.cpp
+C:\Users\User01\source\repos\RGR\RGR.cpp(140,9): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+  RGR.vcxproj -> C:\Users\User01\source\repos\RGR\Debug\RGR.exe
